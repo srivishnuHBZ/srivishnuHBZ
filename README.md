@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srivishnuHBZ
-- 👀 I’m interested in Computer Science and Ethical Hacking
+- 👀 I’m interested in Software development
 - 🌱 I’m currently learning Software Engineering
 
 
